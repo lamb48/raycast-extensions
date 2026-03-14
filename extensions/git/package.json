@@ -225,7 +225,7 @@
     "@raycast/api": "^1.102.7",
     "@raycast/utils": "^2.2.1",
     "fast-fuzzy": "^1.12.0",
-    "file-type": "^21.0.0",
+    "file-type": "^21.3.2",
     "nanoid": "^5.1.5",
     "simple-git": "^3.27.0"
   },
